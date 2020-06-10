@@ -5,3 +5,5 @@
 2. Operation, operator, and data type of Python
 
 3. Tutorial of data preprocessing by Pandas and Scikit-Learn
+
+4. Tutorial of matplotlib
